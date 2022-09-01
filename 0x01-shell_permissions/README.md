@@ -1,5 +1,3 @@
-0. My name is Betty
+## Yeah
 
-mandatory
-
-Create a script that switches the current user to the user Betttty.
+Use
