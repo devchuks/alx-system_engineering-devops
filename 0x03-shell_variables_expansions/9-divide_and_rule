@@ -1,0 +1,2 @@
+#!/bin/add
+echo $((POWER/DIVIDE))
